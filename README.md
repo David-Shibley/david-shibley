@@ -1,4 +1,12 @@
 ### Hi there 👋
+Full stack web developer / Passionately curious / Life-long learner
+
+🔭 I’m currently working on building Fuse the game into the browser
+- Follow the progress on [Github](https://github.com/David-Shibley/Site)
+- Watch weekly live on [Twitch](https://www.twitch.tv/pear_programmer)
+- Watch past episodes on [YouTube](https://youtube.com/user/vaulterdude06)
+
+
 
 <!--
 **David-Shibley/david-shibley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
